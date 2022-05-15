@@ -1,9 +1,9 @@
 # Web-Cam-with-Email-Update
 
 
-Uses updated ESP Mail Client Library.
+Uses updated ESP Mail Client Library, created by K. Suwatchai (Mobizt), Thank you!
 
-Revised code to include Email an image on a Timed or Motion Triggered basis.
+Revised code to include Email an Image from the Camera on a Timed or Motion Triggered basis.
 
 Sleep between uploads.
 
