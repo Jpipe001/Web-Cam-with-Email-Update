@@ -11,3 +11,6 @@ Sleep between uploads.
 
 
 These are the two ESP32 boards I am using.  ESP-CAM and TTGO Camera.
+
+This is WORK IN PROGRESS.
+
