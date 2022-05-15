@@ -158,7 +158,7 @@ void setup()  {
   /* Set the NTP config time */
   struct tm timeinfo;
   if (!getLocalTime(&timeinfo)) {
-    Serial.printf("Time not Available/n");
+    Serial.printf("Time not Available\n");
     session.time.ntp_server = F("pool.ntp.org,time.nist.gov");
     session.time.gmt_offset = -5;           // Winter Time Diff -5 Hrs (New York Time)
     session.time.day_light_offset = +1;     // Summer Time +1 Hr
